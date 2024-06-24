@@ -1,0 +1,208 @@
+*{
+    margin:0px;
+    padding: 0px;
+    scroll-behavior:smooth;
+}
+nav{
+    background-color: black;
+    color: aqua;
+    margin:0px;
+    padding:50px;
+    border-color: blanchedalmond;
+    border-style: solid;
+    border-width: 5px;
+    width:91%;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 45%;
+    color: aqua;
+    padding: 20px;
+}
+li:hover{
+    cursor:pointer;
+}
+.H{
+    background-color: beige;
+    color: black;
+    border-color: rgb(21, 179, 47);
+    border-width: 3px;
+    border-style: double;
+    height: 100px;
+    padding: 5px;
+}
+.P{
+    background-color: beige;
+    color: black;
+    border-color: rgb(21, 179, 47);
+    border-width: 3px;
+    border-style: double;
+    height: 100px;
+    padding: 5px;
+}
+.C{
+    background-color: beige;
+    color: black;
+    border-color: rgb(21, 179, 47);
+    border-width: 3px;
+    border-style: double;
+    height: 100px;
+    padding: 5px;
+}
+#Home{
+    width:91%;
+    background-color: azure;
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    margin:0px;
+    padding:50px;
+}
+h1{
+    color:brown;
+}
+p{
+    padding:10px;
+}
+img{
+    padding-top: 20px;
+    height:250px;
+    width:250px;
+}
+#Products{
+    width:91%;
+    background-color: rgb(251, 251, 65);
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    margin:0px;
+    padding:50px;
+}
+.softie{
+    background-color: azure;
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    padding:10px;
+    width:25%;
+    height:400px;
+    display: inline-block;
+    margin: 20px;
+    background-color: pink;
+    color:purple;
+}
+.sarbath{
+    background-color: azure;
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    padding:10px;
+    width:25%;
+    height:400px;
+    display: inline-block;
+    margin: 20px;
+    background-color: pink;
+    color:purple;
+}
+.lemon{
+    background-color: azure;
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    padding:10px;
+    width:25%;
+    height:400px;
+    display: inline-block;
+    margin: 20px;
+    background-color: pink;
+    color:purple;
+}
+.mosambi{
+    background-color: azure;
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    padding:10px;
+    width:25%;
+    height:400px;
+    display: inline-block;
+    margin: 20px;
+    background-color: pink;
+    color:purple;
+}
+.soup{
+    background-color: azure;
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    padding:10px;
+    width:25%;
+    height:400px;
+    display: inline-block;
+    margin: 20px;
+    background-color: pink;
+    color:purple;
+}
+.tarpaulin{
+    background-color: azure;
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    padding:10px;
+    width:25%;
+    height:400px;
+    display: inline-block;
+    margin: 20px;
+    background-color: pink;
+    color:purple;
+}
+.softie:hover{
+    cursor: pointer;
+    background-color: peachpuff;
+    color:red;
+}
+.sarbath:hover{
+    cursor: pointer;
+    background-color: peachpuff;
+    color:red;
+}
+.lemon:hover{
+    cursor: pointer;
+    background-color: peachpuff;
+    color:red;
+}
+.mosambi:hover{
+    cursor: pointer;
+    background-color: peachpuff;
+    color:red;
+}
+.soup:hover{
+    cursor: pointer;
+    background-color: peachpuff;
+    color:red;
+}
+.tarpaulin:hover{
+    cursor: pointer;
+    background-color: peachpuff;
+    color:red;
+}
+#Contact{
+    width:91%;
+    background-color: rgb(218, 248, 159);
+    text-align: center;
+    border-color: rgb(110, 44, 110);
+    border-width: 5px;
+    border-style: double;
+    margin:0px;
+    padding:50px;
+}
